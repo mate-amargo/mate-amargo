@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello there! 👋 I'm `mate-amargo` 🧉
 
-<!--
-**mate-amargo/mate-amargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📓 Electronic Engineering Student
+- ∫ Math enthusiast
+- GNU 🐂 / 🐧 Linux user
+- [x] Procrastinating
 
-Here are some ideas to get you started:
+## Some stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![mate-amargo GitHub stats](https://github-readme-stats.vercel.app/api?username=mate-amargo&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Project Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mate-amargo&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Views](https://api.ghprofile.me/view?username=mate-amargo&color=FF4000&label=profile_views)
