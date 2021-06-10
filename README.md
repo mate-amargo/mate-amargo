@@ -1,8 +1,16 @@
 # Hello there! 👋 I'm `mate-amargo` 🧉
 
+### Welcome to my GitHub page!
+![img](imgs/boca.gif) ![img](imgs/campanilla.gif) ![img](imgs/clock.gif) ![img](imgs/jebus.gif) ![img](imgs/toast.gif) ![img](imgs/worm.gif)
+
+## About me
 - 📓 Electronic Engineering Student
 - ∫ Math enthusiast
 - GNU 🐂 / 🐧 Linux user
+
+### Right now I'm probably
+- [ ] Studying
+- [ ] Working
 - [x] Procrastinating
 
 ## Some stats
