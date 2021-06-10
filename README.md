@@ -20,3 +20,5 @@
 [![Project Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mate-amargo&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://api.ghprofile.me/view?username=mate-amargo&color=FF4000&label=profile_views)
+
+> 🦊 Fox Reviews - 10/10
