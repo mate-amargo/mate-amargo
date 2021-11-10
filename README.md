@@ -6,17 +6,20 @@
 - 📓 Electronic Engineering Student
 - ∫ Math enthusiast
 - GNU 🐂 / 🐧 Linux user
+- [LinkedIn Profile](https://www.linkedin.com/in/jargbb/)
 
 ### Right now I'm probably
 - [ ] Studying
 - [ ] Working
 - [x] Procrastinating
 
-## Some stats
+## Some stats & badges
 
 [![mate-amargo GitHub stats](https://github-readme-stats.vercel.app/api?username=mate-amargo&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Project Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mate-amargo&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+![Project Euler](https://projecteuler.net/profile/mate_amargo.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mate-amargo&color=FF4000&label=Profile+Views&style=plastic)
 
