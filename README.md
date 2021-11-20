@@ -21,6 +21,6 @@
 
 ![Project Euler](https://projecteuler.net/profile/mate_amargo.png)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mate-amargo&color=FF4000&label=Profile+Views&style=plastic)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmate-amargo&count_bg=%23FF4000&title_bg=%23282828&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > 🦊 Fox Reviews - 10/10
