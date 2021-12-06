@@ -6,7 +6,7 @@
 - 📓 Electronic Engineering Student
 - ∫ Math enthusiast
 - GNU 🐂 / 🐧 Linux user
-- [LinkedIn Profile](https://www.linkedin.com/in/jargbb/)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jargbb)
 
 ### Right now I'm probably
 - [ ] Studying
@@ -21,6 +21,6 @@
 
 ![Project Euler](https://projecteuler.net/profile/mate_amargo.png)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmate-amargo&count_bg=%23FF4000&title_bg=%23282828&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Visits Badge](https://badges.pufler.dev/visits/mate-amargo/mate-amargo?color=FF4400&labelColor=282828&logo=github&label=Profile%20Views&style=plastic)](https://badges.pufler.dev)
 
 > 🦊 Fox Reviews - 10/10
