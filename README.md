@@ -3,7 +3,7 @@
 ### Welcome to my GitHub page!
 
 ## About me
-- 📓 Electronic Engineering Student
+- ⚙️ Electronic Engineer
 - ∫ Math enthusiast
 - GNU 🐂 / 🐧 Linux user
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jargbb)
