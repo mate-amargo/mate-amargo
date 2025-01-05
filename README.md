@@ -22,5 +22,3 @@
 [![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mate-amargo&theme=gruvbox&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![Project Euler](https://projecteuler.net/profile/mate_amargo.png)
-
-> 🦊 Fox Reviews - 10/10
